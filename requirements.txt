@@ -1,0 +1,22 @@
+altgraph==0.17.3
+Bottleneck @ file:///D:/bld/bottleneck_1678327251483/work
+comtypes==1.2.0
+et-xmlfile @ file:///home/conda/feedstock_root/build_artifacts/et_xmlfile_1674664118162/work
+lxml==4.9.3
+mkl-fft==1.3.6
+mkl-random @ file:///C:/Users/dev-admin/mkl/mkl_random_1682977971003/work
+mkl-service==2.4.0
+numexpr @ file:///C:/b/abs_afm0oewmmt/croot/numexpr_1683221839116/work
+numpy @ file:///C:/b/abs_5akk51tu0f/croot/numpy_and_numpy_base_1687466253743/work
+openpyxl @ file:///home/conda/feedstock_root/build_artifacts/openpyxl_1632332968451/work
+pandas @ file:///C:/ci_311_rebuilds/pandas_1679004481142/work
+pefile==2023.2.7
+pyinstaller==5.13.0
+pyinstaller-hooks-contrib==2023.6
+PyMuPDF==1.22.5
+PySimpleGUI==4.60.5
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+python-docx @ file:///home/conda/feedstock_root/build_artifacts/python-docx_1622121039670/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1680088766131/work
+pywin32-ctypes==0.2.2
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
